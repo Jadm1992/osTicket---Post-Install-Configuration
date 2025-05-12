@@ -7,9 +7,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Prerequisites</h2>
 
-- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+- [Creating Virtual Machines in the Cloud](https://github.com/Jadm1992/AzureProject)
 
-- [osTicket: Prerequisites and Installation](https://github.com/joshuaheck1/osticket-prereqs)
+- [osTicket: Prerequisites and Installation](https://github.com/Jadm1992/osTicket-Prerequisites-and-Installation)
 
 <h2>Environments and Technologies Used</h2>
 
